@@ -12,17 +12,7 @@ body {
   background-size: cover;
 }
 
-#mobile-header{
 
-  font-family:'Raleway';
-  font-size: 5rem;
-  font-weight: 100;
-  line-height: 4rem;
-}
-
-.mobile-header-background {
-  background-color: black;
-}
 
 h1,
 h2,
@@ -64,6 +54,12 @@ p {
 .page-section {
   margin-top: 5rem;
   margin-bottom: 5rem;
+}
+
+.topsec {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(1, 2, 3, 0.9);
 }
 
 .section-heading {
