@@ -12,6 +12,18 @@ body {
   background-size: cover;
 }
 
+#mobile-header{
+
+  font-family:'Raleway';
+  font-size: 5rem;
+  font-weight: 100;
+  line-height: 4rem;
+}
+
+.mobile-header-background {
+  background-color: black;
+}
+
 h1,
 h2,
 h3,
